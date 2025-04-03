@@ -1,3 +1,12 @@
+# Hướng dẫn để thay đổi kích thước màn hình server vật lý không có màn hình thực:
+Tải file zip về.
+Giải nén filr driver.
+Update Driver cho màn hình (nhớ vào đúng chỗ để chọn được tệp .inf chứ không phải thư mục).
+(Cách khác là tải và cài file .exe).
+
+Sau đó bật chế độ chỉ màn hình ảo để tắt màn hình chính cảu Windows đi.
+Tận hưởng!
+
 # Virtual Display Driver
 This project creates a _virtual display_ in Windows that functions just like a physical monitor. It is particularly useful for applications such as **streaming, virtual reality, screen recording,** and **headless servers—systems** that operate without a physical display attached. 
 
